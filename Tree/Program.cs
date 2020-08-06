@@ -21,4 +21,11 @@ namespace Tree
       public TreeNode right;
       public TreeNode(int x) { val = x; }
   }
+    public class Solution
+    {
+        public TreeNode SearchBST(TreeNode root, int val)
+        {
+
+        }
+    }
 }
